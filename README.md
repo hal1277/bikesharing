@@ -6,33 +6,33 @@ The purpose of this analysis was to better understand the NYC Citibikes program 
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/heather.lundy/viz/Module14ChallengeAssignment_16436792672500/NYCCitibikes)
+[link to dashboard](https://public.tableau.com/shared/PWY4HZG7R?:display_count=n&:origin=viz_share_link)
 
-![Customers vs Subscribers](https://public.tableau.com/views/Module14ChallengeAssignment_16436792672500/NYCCitibikes?:language=en-US&:display_count=n&:origin=viz_share_link)
+![Customers vs Subscribers](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Usertypes.png)
 
 In the NYC Citibikes program more than 80% of users are subscribers compared to less than 20% of users that pay as they use without a subscription.  
 
-![Number of Rides per Bike](https://public.tableau.com/shared/NZ4PTGNWQ?:display_count=n&:origin=viz_share_link)
+![Number of Rides per Bike](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Bike_Usage.png)
 
 There is widely varying usage of the bikes in the NTY Citibkes program with some bikes being very heavily used and some barely being used at all.  
 
-![Duration of Rides](https://public.tableau.com/shared/724S699YJ?:display_count=n&:origin=viz_share_link)
+![Duration of Rides](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Bike_Usage_Times.png)
 
 Generally rides are lasting less than an hour with the majority being half and hour or less.  
 
-![Rentals by Gender](https://public.tableau.com/shared/BNCQDKDR8?:display_count=n&:origin=viz_share_link)
+![Rentals by Gender](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Usage_Times_by_Gender.png)
 
 Males use the bike rentals much more frequently than females with a ration of 3 to 1.  
 
-![Rentals by Time of Day](https://public.tableau.com/shared/P7Y6SWRQT?:display_count=n&:origin=viz_share_link)
+![Rentals by Time of Day](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Usage_by_day.png)
 
 The majority of rentals occur during the rush hours of Monday to Friday, so from 7am to 9am and 5 pm to 7pm.  
 
-![Rentals by Gender by Time of Day](https://public.tableau.com/shared/K54WG5GQT?:display_count=n&:origin=viz_share_link)
+![Rentals by Gender by Time of Day](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Usage_Time_by_Gender.png)
 
 Even though males use the service much more frequently than females both genders use the bikes at similar times of day.  
 
-![Rentals by Time of Day and Customer Type](https://public.tableau.com/shared/WRTD5KRM8?:display_count=n&:origin=viz_share_link)
+![Rentals by Time of Day and Customer Type](https://github.com/hal1277/bikesharing/blob/29b64efd41ae47562a7afa7d6c81fc26cbf446be/Images/Usage_by_Gender_and_User_Type.png)
 
 Some variation can be seen in the usage times between subscribers and non-subscribers.  Subscribers tend to use the bikes during the rush hours times Monday to Friday but non-subscribers have more usage on Saturday and Sunday than on the weekdays.  
 
